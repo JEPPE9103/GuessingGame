@@ -3,7 +3,7 @@ public class Spel {
     
     {
 
-        new StenSaxPåse().startGame(); 
+        new GissaSpel().startGame(); 
         
     }
 }
